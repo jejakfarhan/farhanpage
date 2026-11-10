@@ -43,7 +43,7 @@ window.portfolioData = {
       visual: "visual-parking",
       visualLabel: "Parking management prototype",
       status: "2024 / 2025",
-      url: "",
+      url: "https://github.com/jejakfarhan/ParQir",
       linkLabel: "View source code"
     },
     {
@@ -64,7 +64,7 @@ window.portfolioData = {
       visual: "visual-mining",
       visualLabel: "Underground mining environment",
       status: "Python · CLI",
-      url: "",
+      url: "https://github.com/jejakfarhan/Terra-s-Core",
       linkLabel: "View source code"
     },
     {
@@ -86,7 +86,7 @@ window.portfolioData = {
       visual: "visual-pvt",
       visualLabel: "PVT pressure-property charts",
       status: "TM2202 · 2026",
-      url: "",
+      url: "https://github.com/jejakfarhan/PVTCalculator",
       linkLabel: "View source code"
     }
   ]
