@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">FN — Farhan Nugraha</title>
+  <rect width="512" height="512" rx="118" fill="#1E2539"/>
+  <!-- Geometric FN monogram -->
+  <g fill="#D4E2ED">
+    <!-- F -->
+    <path d="M108 137H228V181H153V225H204V269H153V363H108Z"/>
+    <!-- N -->
+    <path d="M260 137H304L360 280V137H404V363H360L304 220V363H260Z"/>
+  </g>
+  <!-- Field-gold signature dot -->
+  <circle cx="420" cy="379" r="31" fill="#DBA643"/>
+</svg>
