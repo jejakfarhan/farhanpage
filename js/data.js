@@ -6,26 +6,6 @@
 window.portfolioData = {
   projects: [
     {
-      id: "symbio-plasma",
-      number: "01",
-      type: "Research concept · Energy systems",
-      title: "Symbio-Plasma Refinery",
-      short: "An integrated concept exploring flare-gas treatment and methane conversion pathways for hydrogen and solid-carbon production.",
-      description: "Symbio-Plasma Refinery explores the integration of biological sour-gas treatment — through a bioscrubber or photobioreactor pathway — with non-thermal plasma methane pyrolysis. The concept was developed in the context of flare-gas utilization and energy-system decarbonization, and advanced to the semifinal stage of GECO 2026.",
-      featureLabel: "KEY INSIGHTS",
-      features: [
-        "Connects sour-gas conditioning with a downstream methane-conversion concept.",
-        "Explores hydrogen production alongside solid-carbon generation through non-thermal plasma methane pyrolysis.",
-        "Uses mass-balance reasoning and techno-economic considerations to examine the concept's feasibility and sensitivities."
-      ],
-      tags: ["Flare gas", "Bioscrubber / PBR", "Non-thermal plasma", "Hydrogen", "GECO 2026"],
-      visual: "visual-flare",
-      visualLabel: "Oilfield at sunset",
-      status: "GECO 2026 · Semifinalist",
-      url: "",
-      linkLabel: "Request research brief"
-    },
-    {
       id: "parqirr",
       number: "02",
       type: "Python project · Programming",
