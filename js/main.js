@@ -196,3 +196,5 @@
     });
   }
 })();
+
+lucide.createIcons();
