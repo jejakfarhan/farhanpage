@@ -196,5 +196,3 @@
     });
   }
 })();
-
-lucide.createIcons();
